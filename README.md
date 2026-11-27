@@ -24,6 +24,7 @@ LeetCode Problems + Approach + Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hrittik702/LeetCode-DSA/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/hrittik702/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/hrittik702/LeetCode-DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
